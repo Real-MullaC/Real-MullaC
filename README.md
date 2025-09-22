@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WinUtil, SysPrep Preperator, MicroWin and DISMTools – building tools to make Windows management smoother.  <br>🤝 I’m looking to collaborate on LinUtil – a lightweight Linux utility project.  <br>👐 I’m looking for help with learning C# – especially around desktop apps and automation scripts.  <br>🌱 I’m currently learning C++ – focusing on performance optimization and system-level programming.  <br>💬 Ask me about anything IT and tech related – from troubleshooting to software development tips.  <br>⚡ Fun fact – I once automated my entire PC setup with a single batch script!  
+🔭 I’m currently working on WinUtil, SysPrep Preparator, MicroWin and DISMTools – building tools to make Windows management smoother.  <br>🤝 I’m looking to collaborate on LinUtil – a lightweight Linux utility project.  <br>👐 I’m looking for help with learning C# – especially around desktop apps and automation scripts.  <br>🌱 I’m currently learning C++ – focusing on performance optimization and system-level programming.  <br>💬 Ask me about anything IT and tech related – from troubleshooting to software development tips.  <br>⚡ Fun fact – I once automated my entire PC setup with a single batch script!  
 
 
 # 💻 Tech Stack:
